@@ -6,7 +6,7 @@ In a world of spies, only the unseen live. As an agent in the Phantom Strike Div
 
 **Developer:** [Sullydux](https://github.com/sullydux)
 
-**Download:** [App for MacOS](https://www.patreon.com/collection/2257754)
+**Download:** [HTML app](https://www.patreon.com/collection/2257754)
 
 **Contact Me:** [Go to contact me page](https://sullydux.github.io/sullydux/email.html)
 
