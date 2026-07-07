@@ -2,9 +2,13 @@
 
 In a world of spies, only the unseen live. As an agent in the Phantom Strike Division, you'll infiltrate, sabotage, and vanish without a trace. With challenging levels and skilled gameplay, every mission is a test of precision and timing. Are you ready to enter the world of warfare and master espionage?
 
-**Official Website:** https://sullydux.github.io/Secret-Warfare/
+**Official Website:** https://sullybase.github.io/Secret/
 
 **Developer:** [Sullydux](https://github.com/sullydux)
+
+**Download:** [App for MacOS](https://www.patreon.com/collection/2257754)
+
+**Contact Me:** [Go to contact me page](https://sullydux.github.io/sullydux/email.html)
 
 ---
 
@@ -41,4 +45,4 @@ Make sure the the computer button in the level section menu. You move by WASD or
 
 This project is licensed under the terms found here:
 
-[View License](https://sullydux.github.io/Secret-Warfare/LICENSE.txt)
+[View License](https://sullybase.github.io/Secret/LICENSE.txt)

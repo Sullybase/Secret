@@ -52,7 +52,7 @@ Third-party assets are subject to their respective licenses.
 --------------------------------------------------------------------------
 
 Credits:
-https://sullydux.github.io/Secret-Warfare/RM/
+https://sullybase.github.io/Secret/RM/
 
 U.S. Copyright information:
 https://www.copyright.gov/help/faq/faq-general.html
